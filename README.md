@@ -1,2 +1,6 @@
 # Space invaders
- Space invaders created with c++
+Second year project that I am remaking
+
+
+TODO:
+Use more modern c++
